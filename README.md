@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Felipe!
 
-![Segurança no código](https://i.imgur.com/XO2P4bt.png)
+## 🧠 Humor de Computação
+
+![Programador](https://i.imgflip.com/3vzejl.jpg)
 
 Bem-vindo ao meu repositório pessoal no GitHub! Aqui compartilho projetos, estudos e experiências da minha jornada como estudante de Ciência da Computação. Sinta-se à vontade para explorar!
 
