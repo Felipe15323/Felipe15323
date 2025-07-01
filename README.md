@@ -9,7 +9,7 @@ Bem-vindo ao meu repositório pessoal no GitHub! Aqui compartilho projetos, estu
 🎓 Estudante de **Ciência da Computação** na UNIFAL-MG  
 🧠 Curioso por entender **como as coisas funcionam**, principalmente o funcionamento interno de **jogos e sistemas**  
 💻 Atualmente explorando **C++** e fundamentos da programação  
-📍 Moro em **Alfenas, MG – Brasil**
+📍 **Alfenas, MG – Brasil**
 
 ---
 
